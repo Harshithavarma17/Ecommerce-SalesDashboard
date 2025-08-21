@@ -26,5 +26,3 @@ Interactive dashboard to analyze e-commerce sales, profits, orders, and customer
 
 ## Outcome
 A concise, interactive dashboard to monitor sales performance and trends.
-
-Do you want me to do that?
